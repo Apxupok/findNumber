@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">log2(x)</string>
+    <string name="button_1">Меньше</string>
+    <string name="button_2">Больше</string>
+    <string name="edit_1">Текущее число</string>
+    <string name="edit_2">Минимальное число</string>
+    <string name="edit_3">Максимальное число</string>
+    <string name="button">Button</string>
+    <string name="Attempts">Количество попыток:</string>
+</resources>
